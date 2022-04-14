@@ -211,7 +211,7 @@ under the License.
 							</filters>
 							<transformers>
 								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>quick.table.TableExample</mainClass>
+									<mainClass>quick.table.PrintSqlExample</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
